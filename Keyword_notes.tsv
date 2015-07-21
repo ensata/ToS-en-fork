@@ -1,4 +1,5 @@
 ko	en-ensata	en-previous	ko-romanised	notes
+~~	suggested	original translation	~~	recorded in order of appearance in quest.tsv
 				
 구원자		Savior	guwonja 	what Laima calls the PC
 계시자		Revelator	gyesija 	special people who communed with Laima
@@ -13,12 +14,17 @@ ko	en-ensata	en-previous	ko-romanised	notes
 				
 [Events]				
 신수의 날 	Day of blah	Day of Divine Tree / Divine Day		needs a more sensible name
+신수	Celestial Tree	Divine Tree		What NPCs call the strange tree
 				
-[Locations]				named after Lithuanian places
+[Locations]				some are named after Lithuanian places
 클라페다 		Klaipeda	keullapeda 	
 샤울레이		Siauliai	syaullei 	
 샤울레이 동쪽 숲 		East Siauliai Woods 		
-동쪽 숲		Eastern Woods		shorter name in dialogue, more casual?
+마법사의 탑		Mage Tower		
+테넷 성당	Tenet Chapel			
+테넷 성당 지하	Tenet Chapel Underside	Tenet Chapel		
+수정광산		Crystal Mine		
+칼리스		Kaliss		
 				
 [Bestiary]				
 스파르나스		Sparnas	seupaleunaseu	
@@ -28,6 +34,7 @@ ko	en-ensata	en-previous	ko-romanised	notes
 [NPC Titles]				
 직업의 마스터	Class Master	x		
 경계병	xxx	Sentinel		border guard
+마왕 제스티	Demon Lord Gesti	The King of Demons Gesti		length and creative reasons
 				
 [Misc NPC Names]				
 캔버그	Cyneburg	Cane Bug	kaenbeogeu 	an npc's name?
@@ -37,7 +44,7 @@ ko	en-ensata	en-previous	ko-romanised	notes
 				
 				
 [Factions]				
-마법협회	Mage Society	Magical Association		name length
+마법협회	Mage Society	Magical Association		length and creative reasons
 클라페다 기사단	Klaipeda Knights	x		
 				
 [Classes]				
@@ -54,7 +61,7 @@ ko	en-ensata	en-previous	ko-romanised	notes
 로델레로		Rodelero	lodellelo 	spanish trooper
 스콰이어		Squire	seukwaieo 	
 				
-마법사	Mage	xxx	mabeobsa 	non-Konglish term for the Wizard type
+마법사	Mage type	xxx	mabeobsa 	non-Konglish term for the Wizard type
 위저드		Wizard	wijeodeu 	First Class
 파이로맨서		Pyromancer	pailomaenseo 	
 크리오맨서		Cryomancer	keuliomaenseo 	
@@ -67,7 +74,7 @@ ko	en-ensata	en-previous	ko-romanised	notes
 쏘마터지		Thaumaturge	ssomateoji 	
 엘레멘탈리스트		Elementalist		
 				
-궁수	Bowmen	xxx	gungsu 	non-Konglish term for the Archer type
+궁수	Bow user	xxx	gungsu 	non-Konglish term for the Archer type
 아처		Archer	acheo 	First Class
 헌터		Hunter	heonteo 	
 쿼렐슈터		Quarrelshooter	kwolelsyuteo 	quarrel: middle english for crossbow bolt
@@ -80,7 +87,7 @@ ko	en-ensata	en-previous	ko-romanised	notes
 슈바르츠라이터		Schwarzer Reiter		de: Black Rider, ie. horse rider
 플레처		Fletcher	peullecheo 	someone who works on arrows
 				
-성직자	Clergy People / Ecclesiastic	xxx	seongjigja 	non-Konglish term for the Cleric type
+성직자	Clergy type	xxx	seongjigja 	non-Konglish term for the Cleric type
 클레릭		Cleric	keullelig 	First Class
 프리스트		Priest	peuliseuteu 	
 크리비		Krivis	keulibi 	High Priest title for Romuva religion
@@ -93,11 +100,12 @@ ko	en-ensata	en-previous	ko-romanised	notes
 파드너		Pardoner	padeuneo 	Middle English: church official who sells indulgences
 팔라딘		Paladin	palladin 	classic RPG class
 				
-[Base Attributes]				noted some modernised versions of the attributes
-힘	Strength / Might	STR		
-체력	Constitution	CON		
-지능	Intelligence / Intellect	INT		
-정신	Spirit / Will / Resolve	SPR		
-민첩	Agility / Dexterity	DEX		
+[[ Game Mechanics ]]				
+[Base Attributes]				some modern Attribute names
+힘		STR - Strength		Might
+체력		CON - Constitution		
+지능	Intellect	INT - Intelligence		Intellect - shorter in UI, same acronym
+정신		SPR - Spirit		
+민첩		DEX - Dexterity		
 				
 [Derived Attributes]				
