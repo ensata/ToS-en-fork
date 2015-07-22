@@ -36,10 +36,11 @@ There is no official one, or else it's not really good enough for precise usage.
 	Always write a summary. Write down the chunk you reviewed in the commit summary.
 
 	Do not edit more than 300 lines in a file in a single commit/pull request. 
-		GitHub will not generate a diff and you will need to use the command line or dig into the commit history to track problems.
+		GitHub will not generate a diff and you will need to use the command line 
+		or dig into the commit history to track problems.
 		
 	Github will not render tsv files as a searchable table if:
-	The file is larger than 512kb
-	Double quote symbols are not formatted correctly (This can't be avoided!)
+		The file is larger than 512kb
+		Double quote symbols are not formatted correctly (This can't be avoided!)
 
 		
