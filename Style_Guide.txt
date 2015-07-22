@@ -1,4 +1,4 @@
-last updated: 2015-07-10
+﻿last updated: 2015-07-23
 
 This is Ensata's grammar and style notes for the ToS-en translation.
 There is no official one, or else it's not really good enough for precise usage.
@@ -21,11 +21,25 @@ There is no official one, or else it's not really good enough for precise usage.
 	Latvian names can be a second alternative.
 	Polish and Russian names are third.
 	
+	Do this only if the pronunciation is the same.
+	
 * Writing & Editing
 	Avoid non-English alphabet and romanise foreign words. ie. Doppelsöldner -> Doppelsoeldner
 
 	A single-character Unicode ellipsis ( … ) is entered by typing Alt+0133
 	
-	Github's in-browser search function for browsing .tsv files will break if you do not close a " on the same line.
-	
 	Do not use Google Translate.
+	
+* GitHub Usage Guide
+	Edit lines in groups. For example, edit a chunk of 100 lines, from 1-100, or 101-200, etc.
+
+	Always write a summary. Write down the chunk you reviewed in the commit summary.
+
+	Do not edit more than 300 lines in a file in a single commit/pull request. 
+		GitHub will not generate a diff and you will need to use the command line or dig into the commit history to track problems.
+		
+	Github will not render tsv files as a searchable table if:
+	The file is larger than 512kb
+	Double quote symbols are not formatted correctly (This can't be avoided!)
+
+		
