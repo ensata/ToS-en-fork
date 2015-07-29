@@ -26,13 +26,17 @@ ko	en-ensata	en-previous	ko-romanised	notes
 칼리스		Kaliss		
 대지의 요새 결전지	Great Earth Fortress - Battlefield	Fortress Battle Field of the earth		
 대지의 요새	Great Earth Fortress			
-통곡의 광장		Square of Lamentation		
-페디미안	Fedimia	Fedimian		The n at the end makes it look like an English naming style
+통곡의 광장	Square of Lament	Square of Lamentation		
+페디미안	Fedimia	Fedimian	pedimian 	The n at the end is an English system clash
+수정광산 1층	Crystal Mine 1F	Crystal Mine 1st Gallery		
+수정광산 2광구 1층	Crystal Mine - Lot 2, 1F	2nd Mine Lot 1st Gallery		
 				
 [Bestiary]				
 스파르나스		Sparnas	seupaleunaseu	
 부베		Vubbe	bube	
 츄파카브라		Chupacabra	chyupakabeula 	Monster from modern american legend
+판토		Panto		
+헬가세르클		Helgacercle		
 				
 [NPC Titles]				
 직업의 마스터	Class Master	x		
@@ -44,11 +48,26 @@ ko	en-ensata	en-previous	ko-romanised	notes
 바이보라		Vivora	baibola	someone's leader
 레나	Lena	Lennar	lena	
 헤느리카	Henryka		heneulika 	
-				
+후베르타스 	Hubertas	Juvertas	hubeleutaseu 	
+자카리엘		Zachariel		
 				
 [Factions]				
 마법협회	Mage Society	Magical Association		length and creative reasons
 클라페다 기사단	Klaipeda Knights	x		
+				
+[Key Items]				
+홍염의 보석	Blazing Jewel	Jewel of Prominence / numerous		 Gabija-related key item
+				
+[[ Game Mechanics ]]				
+[Base Attributes]				some modern Attribute names
+힘		STR - Strength		Might
+체력		CON - Constitution		
+지능	Intellect	INT - Intelligence		Intellect - shorter in UI, same acronym
+정신		SPR - Spirit		Resolve
+민첩		DEX - Dexterity		
+				
+[RPG System]				
+전직 		Advancement		hanja, lit. “Change Job”
 				
 [Classes]				
 검사 계열	Sword Fighter	xxx	geomsa 	full category term; non-Konglish word for all Swordsman classes
@@ -102,13 +121,3 @@ ko	en-ensata	en-previous	ko-romanised	notes
 몽크		Monk	mongkeu 	
 파드너		Pardoner	padeuneo 	Middle English: church official who sells indulgences
 팔라딘		Paladin	palladin 	classic RPG class
-				
-[[ Game Mechanics ]]				
-[Base Attributes]				some modern Attribute names
-힘		STR - Strength		Might
-체력		CON - Constitution		
-지능	Intellect	INT - Intelligence		Intellect - shorter in UI, same acronym
-정신		SPR - Spirit		Resolve
-민첩		DEX - Dexterity		
-				
-[Derived Attributes]				
