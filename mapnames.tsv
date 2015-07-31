@@ -1,5 +1,5 @@
 Korean	English	New-Ensata	Notes
-~~	~~	~~	lt notes with assistance from Xenobius2501
+~~	~~	~~	Lithuanian language (lt) notes with assistance from Xenobius2501
 국왕직할령	Royal Territory	~~	
 대삼림지대	Grand Forest Region	Great Woodlands	
 페디미안 직할령	Fedimian Territory	~~	
@@ -9,18 +9,18 @@ Korean	English	New-Ensata	Notes
 칼리스 지방	Kaliss Province	~~	
 페디미안	Fedimian	Fedimia	en: a word ending with “-an” makes it mean “of Fedimia”
 클라페다	Klaipeda	~~	
-하이랜더 마스터의 도장	Highlander Master's Training Hall	Highlander Master's Dojo	
-보코르 마마의 집	Bokor Mama's House	Bokor Master's Home	Incorrect translation
+하이랜더 마스터의 도장	Highlander Master's Training Hall	Highlander Master's Dojo	Dojo is often used for a melee training hall
+보코르 마마의 집	Bokor Mama's House	Bokor Master's Home	Deprecated - Korean map name was changed
 파이로맨서 마스터의 연구실	Pyromancer Master's Lab	~~	
 용병의뢰소	Mercenary Post	Mercenary Agency	lit. mercenary request-location
 샤울레이 서쪽 숲	West Siauliai Woods	~~	
 샤울레이 동쪽 숲	East Siauliai Woods	~~	
-광산마을(구 샤울레이 외곽숲)	Miners' Village	Mining Village	
+광산마을(구 샤울레이 외곽숲)	Miners' Village	Mining Village	ko: actually Mine Village
 수정광산 1층	Crystal Mine 1st Gallery	Crystal Mine 1F	
 수정광산 2층	Crystal Mine 2nd Gallery	xxx 2F	
 수정광산 3층	Crystal Mine 3rd Gallery	xxx 3F	
 은수협곡	Silver Stream Gorge	Silverstream Gorge	
-너울 고원	Leaf Veil Plateau		
+너울 고원	Leaf Veil Plateau	Veiled Plateau	
 옥빛서린 벼랑	Jadefilled Cliff	Emerald Bluffs	
 내린나무 화원	Descended Tree Garden	Fallen Tree Garden	
 테넷 성당 지하 1층	Tenet Chapel Basement1	xxx B1	
@@ -28,10 +28,10 @@ Korean	English	New-Ensata	Notes
 테넷 성당 지상 2층	Tenet Chapel 2nd Floor	xxx 2F	
 풀가람 터	Grass Brook Side	Grassy Brookside	
 마름포석골	Rhombuspaving Dale	~~	
-쪽빛나무 고원	Indigo Trees Plateau		
+쪽빛나무 고원	Indigo Trees Plateau	Bluewood Plateau	
 칠채고원평	Seven Hues Mesa	Seventune Mesa	
-카틴 숲 입구	Entrance of Kateen Forest		
-희미한 묘지	Gleamy Burial Ground		
+카틴 숲 입구	Entrance of Kateen Forest	Katyne Forest Entrance	
+희미한 묘지	Gleamy Burial Ground	Dimlit Cemetery	
 수정광산 2광구 1층	2nd Mine Lot 1st Gallery	Crystal Mine Lot 2 - 1F	
 수정광산 2광구 2층	2nd Mine Lot 2nd Gallery	Crystal Mine Lot 2 - 2F	
 구슬빛 샘터	Beadshine Fountain	~~	
@@ -44,7 +44,7 @@ Korean	English	New-Ensata	Notes
 관문로	Gate Route		
 가시마음골	Spine Heart Dale	Spineheart Dale	
 낙우림	Fallen Worry Forest		
-영혼고개	Soul Peak		
+영혼고개	Soul Peak	Soulpeak	
 해진깃발숲	Sunset Flag Forest		
 대왕의 관문	Gateway of Great King		
 부러진 기둥 협곡	Broken Pillar Canyon		
@@ -77,9 +77,9 @@ Korean	English	New-Ensata	Notes
 대회랑	Grand Corridor		
 대성당의 참회로	Penitence Route of Cathedral		
 지성소	Sanctuary		
-봄볕나무 숲	Spring Light Wood		
+봄볕나무 숲	Spring Light Wood	Springlight Wood	
 흔들리는 경작지	Swaying Arable Land		
-세개울 숲	Three Brooks Wood		
+세개울 숲	Three Brooks Wood	Trejbrook Wood	conjunction into the lt word for three
 물과나무노래 숲	Water Tree-song Forest		
 통곡의 광장	Square of Lamentation	Square of Lament	
 스산한 장터	Lonesome Marketplace	Deserted Market	
@@ -139,7 +139,7 @@ Korean	English	New-Ensata	Notes
 다이나 양봉단지	Bee Farm		
 베르크티 광장	Verkti Square		
 록소나 장터	Roxona Marketplace		
-대지의 요새 결전지	Fortress Battle Field of the earth		
+대지의 요새 결전지	Fortress Battle Field of the earth	Great Earth Fortress - Battlefield	
 이브레고원	Ibre Plateau		
 마당 고원big	Grand Yard Mesa		
 스벤티마스 유형지	Sventimas Exile		
