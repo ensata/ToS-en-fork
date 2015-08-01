@@ -1,69 +1,69 @@
 Korean (ko/kor)	English (en) - pre-edit	Suggestions-New-ensata	notes
-~~	version before 2015-07-01	see also: mapnames.tsv	to be filled in as quest.tsv is reviewed
+~ ^ use the search! ^ ~	version before 2015-07-01	see also: mapnames.tsv	to be filled in as quest.tsv is reviewed
 ~~~~~~~~	~~~~~~~~	~~~~~~~~	~~~~~~~~
 구원자	Savior		what Laima calls the PC
 계시자	Revelator		special people who communed with Laima
 			
-[Goddesses]			see Lithuanian myth
-라이마	Laima		ref: goddess of fate - only fate, not wisdom
+[Goddesses]	~~~~~~~~	~~~~~~~~	see Lithuanian myth
+라이마	Laima	~~	ref: goddess of fate - only fate, not wisdom
 운명과 예지의 여신	Goddess of Fate and Luck	Goddess of Fate and Wisdom	kor file says fate and wisdom
 가비야	Gabija	~~	of fire and hearth
 바카리네	Vakarine	~~	of the Evening Star
 제미나	Zemyna	~~	of earth, ie. Mother Earth
 아우슈리네	Ausrine	~~	of the Morning Star
 			
-[Events]			
+[Events]	~~~~~~~~	~~~~~~~~	~~~~~~~~
 신수의 날 	Day of Divine Tree / Divine Day	Day of blah	needs a more sensible name
 신수	Divine Tree	Celestial Tree	What NPCs call the strange tree
 			
-[Locations]	~~	~~	some are named after Lithuanian places
+[Locations]	~~~~~~~~	~~~~~~~~	some are named after Lithuanian places
 ~see mapnames.tsv	~~	~~	
 			
-[Bestiary]			
+[Bestiary]	~~~~~~~~	~~~~~~~~	~~~~~~~~
 스파르나스	Sparnas		
 부베	Vubbe		
 츄파카브라	Chupacabra	~~	Monster from modern american legend
 판토	Panto		
 헬가세르클	Helgacercle		
 			
-[NPC Titles]			
+[NPC Titles]	~~~~~~~~	~~~~~~~~	~~~~~~~~
 직업의 마스터	x	Class Master	
 경계병	Sentinel	xxx	border guard
 마왕 제스티	The King of Demons Gesti	Demon Lord Gesti	length and creative reasons
 			
-[Misc NPC Names]			
+[Misc NPC Names]	~~~~~~~~	~~~~~~~~	Many NPCs have Lithuanian (lt) names
 캔버그	Cane Bug	Cyneburg	probably an npc
 바이보라	Vivora		someone's leader
 레나	Lennar	Lena	
 헤느리카	F slow car	Henryka	original version signifies machine translation
-후베르타스 	Juvertas	Hubertas	
-자카리엘	Zachariel	~~	
+후베르타스 	Juvertas	Hubertas	lt name
+자카리엘	Zachariel	~~	name of an archangel
 즈벡	too many	Zubeck	
 코벤	Coben	Koben	danish for crowbar, Zubeck's brother
 			
-[Factions]			
+[Factions]	~~~~~~~~	~~~~~~~~	~~~~~~~~
 마법협회	Magical Association	Mage Society	length and creative reasons
 클라페다 기사단	x	Klaipeda Knights	
 			
-[Key Items]			
+[Key Items]	~~~~~~~~	~~~~~~~~	~~~~~~~~
 홍염의 보석	Jewel of Prominence / numerous	Blazing Jewel	Gabija-related key item
 			
-[[ Game Mechanics ]]			
-[Base Attributes]			some modern Attribute names
+[[ Game Mechanics ]]	~~~~~~~~	~~~~~~~~	~~~~~~~~
+[Base Attributes]	~~~~~~~~	~~~~~~~~	some modern Attribute names
 힘	STR - Strength		Might
 체력	CON - Constitution		
 지능	INT - Intelligence	Intellect	Intellect - shorter in UI, same acronym
 정신	SPR - Spirit		Resolve
 민첩	DEX - Dexterity		
 			
-[RPG System]			
+[RPG System]	~~~~~~~~	~~~~~~~~	~~~~~~~~
 전직 	Advancement		hanja, lit. “Change Job”
 검사 계열	Swordsman Type	Warrior / Fighter	DnD style: Fighters
 마법사 계열	Wizard Type	Mage / Wizard	DnD: Wizards
 궁수 계열	Archer Type	Ranger	DnD: Rangers
 성직자 계열	Cleric Type	Cleric	DnD: Clerics
 			
-[Classes]			
+[Classes]	~~~~~~~~	~~~~~~~~	~~~~~~~~
 소드맨	Swordsman	~~	First Class
 하이랜더	Highlander	~~	a scottish person - actually a movie reference
 펠타스타	Peltasta	~~	variant of ancient greek word Peltast - greek infantry
